@@ -1,5 +1,6 @@
-![👋 Hi, my name is Antonio Torres Gómez](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="👋 Hi, my name is Antonio Torres Gómez" height="250">
+</p>
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" height="28" alt="Kotlin">
